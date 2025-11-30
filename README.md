@@ -213,7 +213,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
-**Santiago Fuentes** - [@safuentes](https://github.com/safuentes)
+**Santiago Fuente** - [@safuente](https://github.com/safuente)
 
 ---
 
